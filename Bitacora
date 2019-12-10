@@ -38,3 +38,16 @@
             - Poisson                   - Chi cuadrado
             - Normal
             - Exponencial
+            
+       Numeros Aleatorios:
+        Son numeros que no siguen ningun patron establecido. Es imposible poder conocer con certeza el numero generado.
+        
+            - Eventos independientes: Son eventos que no tienen dependencia entre si. Es decir que ocurrido un evento, el siguiente
+                                      no se vera afectado por el evento pasado.
+            - Uniformidad: La probabilidad de que salga un numero es la misma para todos los demas dentro de un intervalo establecido.
+            - Numeros PseudoAleatorios: Funcion que realiza un algoritmo para generar un numero ¨aleatorio¨, con un valor inicial
+                                        (semilla).
+                      
+            
+            
+         
