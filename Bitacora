@@ -30,3 +30,11 @@
                          puntuales. Ejemplos de estos sistemas pueden ser, conteo de objetos, mediciones de tiempo con limitaciones,
                          etc.
                           
+        Relacion entre modelo y sistema:
+            Un modelo es una imagen o croquis del sistema(concepto). El sistema es la realidad.
+            
+        Modelos Estadisticos:
+            -T-Student                  - Logaritmica
+            - Poisson                   - Chi cuadrado
+            - Normal
+            - Exponencial
