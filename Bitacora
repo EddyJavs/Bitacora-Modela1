@@ -23,3 +23,10 @@
                         Un sistema es cerrado si no se ve afectado por variables externas al sistema.
    
     
+        Sistema continuo: Es un sistema en donde las variables de entrada son continuas, es decir que no son datos enteros,
+                          por lo tanto la exactitud de las variables puede ser de infinitecimales. Ejemplos de estos sistemas
+                          podrian ser las mediciones del tiempo(sin limitantes), mediciones de distancias, pesos, etc.
+       Sistema discreto: Es un sistema en donde las variables estudiadas son enteras es decir unicamente puede tomar valores
+                         puntuales. Ejemplos de estos sistemas pueden ser, conteo de objetos, mediciones de tiempo con limitaciones,
+                         etc.
+                          
