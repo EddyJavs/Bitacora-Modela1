@@ -7,3 +7,19 @@
     Desventajas de simular:
       1. La simulacion es una aproximacion de la realidad. (No se puede fiar 100%)
       2. Se utiliza tiempo en realizar la simulacion.
+
+    En que areas se puede modelar?
+        - En construccion
+        - Medicina
+        - Tasas de crecimiento poblacional
+        - En cualquier area que se desee " Predecir el futuro"
+        
+    Tipos de sistemas:
+        Sistema abierto: Es un sistema que es afectadopor las variables del entorno (muchas variables en juego),
+                         y no se puede conocer adelantadamente que salidas se obtendran del sistema.
+                         Un sistema es abierto si se ve afectado por variables o entidades ajenas al sistema en si.
+       Sistema cerrado: No importa por que variables esten ocurriendo en su entorno el sistema no se vera afectado 
+                        por estas, y la salida de este sistema se asegura que sera la esperada.
+                        Un sistema es cerrado si no se ve afectado por variables externas al sistema.
+   
+    
