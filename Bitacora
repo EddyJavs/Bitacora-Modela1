@@ -47,6 +47,25 @@
             - Uniformidad: La probabilidad de que salga un numero es la misma para todos los demas dentro de un intervalo establecido.
             - Numeros PseudoAleatorios: Funcion que realiza un algoritmo para generar un numero ¨aleatorio¨, con un valor inicial
                                         (semilla).
+                                        
+       Colas:
+            Tiempos de espera de los clientes a ser atendidos por los servidores.
+            
+            Disciplina de la cola: 
+                - FIFO: First In First Out.
+                - LIFO: Last In First Out.
+                - RSS: Random Selection of Service.
+                
+            Mecanismo de servicio: El mecanismo de servicio consiste en una o más instalaciones de servicio,
+                                  cada una de ellas con uno o más canales paralelos de servicio, llamados servidores.
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
                       
             
             
