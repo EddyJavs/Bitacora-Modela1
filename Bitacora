@@ -61,7 +61,12 @@
             Mecanismo de servicio: El mecanismo de servicio consiste en una o más instalaciones de servicio,
                                   cada una de ellas con uno o más canales paralelos de servicio, llamados servidores.
                                   
-                                  
+     Definiciones:
+        Verificacion: Es la determinacion si el documento de supuestos ha sido traducido correctamente en el programa.
+        Validacion: Es el proceso de determinar si el modelo de simulacion es una representacion precisa del sistema.
+        Credibilidad: Un modelo de simulacion tiene credibilidad si la gerencia lo acepta como acertado.
+        Acreditacion: Es la certificacion oficial de que un modelo es aceptable para un proposito en especifico.
+        
                                   
                                   
                                   
